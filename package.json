@@ -1,0 +1,19 @@
+{
+  "name": "inc-rodolfo",
+  "version": "1.0.0",
+  "description": "##Setup",
+  "main": "criateservejs.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/schimilouski/inc-rodolfo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/schimilouski/inc-rodolfo/issues"
+  },
+  "homepage": "https://github.com/schimilouski/inc-rodolfo#readme"
+}
